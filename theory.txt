@@ -1,0 +1,7 @@
+Curso de GIT y GITHUB
+
+Codigos para configurar nuestros alias y nuestro correo
+git config --global user.name "santiagoV"   --> cambiar el nombre en las configuraciones globales
+git config --global user.email "svelezu@unal.edu.co"  --> cambiar el nombre en las configuraciones globales
+git config --list   --> Me muestra todas las configuraciones que puedo realizar
+git config --global --list
